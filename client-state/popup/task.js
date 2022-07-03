@@ -1,3 +1,4 @@
+
 const closeModal = () => {
     const modal = document.getElementById('subscribe-modal')
     
